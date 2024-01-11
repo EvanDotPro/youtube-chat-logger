@@ -1,6 +1,6 @@
 # Basic YouTube Chat Logger
 
-This is a very simple app that logs YouTube chat to a text file in a customizable format. It was created for [ModderPaulScambaits](https://twitch.tv/ModderPaulScambaits), but feel free to use it if this is something you might find useful.
+This is a very simple app that logs YouTube chat to a text file in a customizable format. It was created for my friend [ModderPaulScambaits](https://twitch.tv/ModderPaulScambaits), but feel free to use it if this is something you might find useful.
 
 ### Installation
 
